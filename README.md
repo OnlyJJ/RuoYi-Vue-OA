@@ -2,7 +2,7 @@
 
 * 本项目前、后端代码全开源，没有任何保留，没有区分免费版、商业版或其他付费版；
 * 遵循MIT开源协议，100%免费使用；
-* 前端代码：[RuoYi-Vue-OA-UI](https://gitee.com/OpenJJ/ruoyi-vue-oa-ui)。
+* 前端代码：[RuoYi-Vue-OA-UI](https://github.com/OnlyJJ/RuoYi-Vue-OA-UI)。
 * 快速启动及帮助：[wiki](https://github.com/OnlyJJ/RuoYi-Vue-OA/wiki)
 * gitee仓库：[gitee](https://gitee.com/OpenJJ/ruoyi-vue-oa)
 
